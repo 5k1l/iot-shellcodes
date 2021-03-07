@@ -1,2 +1,3 @@
 # iot-shellcodes
-一些可能用到的shellcode
+
+固件重打包，可能用到的shellcode
